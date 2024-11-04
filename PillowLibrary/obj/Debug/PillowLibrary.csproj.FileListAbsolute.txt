@@ -1,0 +1,9 @@
+C:\Users\andre\source\repos\Project3\PillowLibrary\bin\Debug\PillowLibrary.dll
+C:\Users\andre\source\repos\Project3\PillowLibrary\bin\Debug\PillowLibrary.pdb
+C:\Users\andre\source\repos\Project3\PillowLibrary\obj\Debug\PillowLibrary.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Project3\PillowLibrary\obj\Debug\PillowLibrary.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Project3\PillowLibrary\obj\Debug\PillowLibrary.dll
+C:\Users\andre\source\repos\Project3\PillowLibrary\obj\Debug\PillowLibrary.pdb
+C:\Users\andre\source\repos\Project3\PillowLibrary\bin\Debug\Utilities.dll
+C:\Users\andre\source\repos\Project3\PillowLibrary\bin\Debug\Utilities.pdb
+C:\Users\andre\source\repos\Project3\PillowLibrary\obj\Debug\PillowLi.47B6BDE0.Up2Date
