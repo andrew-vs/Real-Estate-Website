@@ -1,0 +1,6 @@
+C:\Users\andre\source\repos\Project3\Utilities\bin\Debug\Utilities.dll
+C:\Users\andre\source\repos\Project3\Utilities\bin\Debug\Utilities.pdb
+C:\Users\andre\source\repos\Project3\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Project3\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Project3\Utilities\obj\Debug\Utilities.dll
+C:\Users\andre\source\repos\Project3\Utilities\obj\Debug\Utilities.pdb
